@@ -2,7 +2,7 @@
 
 void cub(double n)
 {
-    printf("n^3 = %f\n", n * n * n);
+    printf("n в кубе = %f\n", n * n * n);
 }
 
 int main()
